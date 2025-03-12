@@ -1,0 +1,5 @@
+2025-03-12 10:19:51,288 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2025-03-12 10:25:52,356 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2025-03-12 10:28:36,312 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2025-03-12 10:30:22,035 django.utils.autoreload INFO     /home/tekvix/Desktop/LatiFusion/django_codebase/main/settings/base.py changed, reloading.
+2025-03-12 10:30:22,441 django.utils.autoreload INFO     Watching for file changes with StatReloader
